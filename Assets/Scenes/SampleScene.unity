@@ -340,7 +340,7 @@ MonoBehaviour:
   seed: -1
   iterations: 150
   runners:
-  - 0.2
+  - 0.5
   - 0.8
   roomPrefabs:
   - {fileID: 2065516122416468308, guid: 29b9d1a92bbfc0049b1ec896f3236749, type: 3}
