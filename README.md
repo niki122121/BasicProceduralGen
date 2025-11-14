@@ -213,15 +213,6 @@ Esto limita el coste en tiempo real sin cambiar la lógica del generador.
 - **Rendimiento**: usa activación por proximidad y *pooling* de rooms si regeneras con frecuencia.  
 - **Resultados poco interesantes**: combina runners con turnProbability distintas y ajusta `iterations`.
 
----
-
-## Checklist de evaluación / Rúbrica
-- ✅ **Instrucciones de uso**: abrir escena, configurar *generator*, ejecutar, regenerar.  
-- ✅ **Explicación del algoritmo**: cuadrícula, runners, bucle, giro, múltiples agents.  
-- ✅ **Instanciación y cierre de puertas**: convertir celdas en rooms, vecindad, puertas huérfanas.  
-- ✅ **Rendimiento**: activación dinámica recomendada.  
-- ✅ **Extensiones**: control de tamaño exacto, 3D, camino principal, semillas.  
-- ✅ **Problemas comunes**: guía de resolución.
 
 ---
 
