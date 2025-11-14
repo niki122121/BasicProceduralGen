@@ -7,9 +7,6 @@ Este proyecto muestra cómo generar niveles en **Unity** usando un algoritmo tip
 uno o varios *runners* caminan por una cuadrícula y **dejan un rastro de celdas**; cada celda se
 convierte después en una *room* (instancia de un prefab).
 
-> **Objetivo de este README:** cumplir la consigna de que *“el software incluye instrucciones sobre cómo usarse (o estas están en material de acceso abierto utilizado en la asignatura)”*.  
-> Aquí tienes los **pasos de uso**, la **explicación del algoritmo**, y ejemplos de **código y configuración** para reproducir los resultados en Unity.
-
 ---
 
 ## Índice
